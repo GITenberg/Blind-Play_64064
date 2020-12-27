@@ -1,0 +1,39 @@
+_repo: Blind-Play_64064
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Houlihan, Raymond F.
+    alias: Houlihan, Ray
+    birthdate: 1923
+    deathdate: 1991
+    gutenberg_agent_id: '33971'
+    url: http://www.gutenberg.org/2009/agents/33971
+creator:
+  author:
+    agent_name: Davis, Chandler
+    aliases:
+    - Davis, Chan
+    - Davis, Horace Chandler
+    birthdate: 1926
+    gutenberg_agent_id: '52735'
+    url: http://www.gutenberg.org/2009/agents/52735
+    wikipedia: https://en.wikipedia.org/wiki/Chandler_Davis
+description: ''
+gutenberg_issued: '2020-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Space travelers -- Fiction'
+- !lcsh 'Survival -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Blind Play
+url: http://www.gutenberg.org/ebooks/64064
